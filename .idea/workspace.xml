@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de1a6f9a-9a1e-4c35-8650-8c221c54db0a" name="Default Changelist" comment="" />
+    <list default="true" id="de1a6f9a-9a1e-4c35-8650-8c221c54db0a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/Button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/Navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/adatriojazzband-website/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/adatriojazzband-website/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/adatriojazzband-website/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/adatriojazzband-website/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/adatriojazzband-website/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/adatriojazzband-website/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logoGrande4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/-1237129691328748265.MP4" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,13 +29,27 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2DtGJCuxVq0vGZUHrzcxy4MyZLo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1661588341937">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="460" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/-1920.25.1920.1055@0.0.1440.900" timestamp="1661588341937" />
+  </component>
 </project>
