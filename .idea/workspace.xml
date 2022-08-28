@@ -2,23 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de1a6f9a-9a1e-4c35-8650-8c221c54db0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/Button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/Navbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/public/images/foto.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/public/images/foto2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/public/images/foto3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/public/images/foto4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/public/images/foto5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/public/video/video.MP4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/CardItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/Cards.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/Cards.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/HeroSection.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/HeroSection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/img/foto3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/img/foto4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/img/foto5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/pages/Home.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/adatriojazzband-website/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/adatriojazzband-website/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/adatriojazzband-website/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/public/video/-1237129691328748265.MP4" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/adatriojazzband-website/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/adatriojazzband-website/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/adatriojazzband-website/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logoGrande4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/video/-1237129691328748265.MP4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/Navbar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +40,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -45,11 +49,19 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="460" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1661588341937">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="460" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/-1920.25.1920.1055@0.0.1440.900" timestamp="1661588341937" />
+    <state x="-672" y="28" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1661677049562">
+      <screen x="-720" y="0" width="720" height="576" />
+    </state>
+    <state x="-672" y="28" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.25.1440.875/-720.0.720.576@-720.0.720.576" timestamp="1661677049562" />
   </component>
 </project>
