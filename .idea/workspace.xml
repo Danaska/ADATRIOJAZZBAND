@@ -2,26 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de1a6f9a-9a1e-4c35-8650-8c221c54db0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/public/images/foto.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/public/images/foto2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/public/images/foto3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/public/images/foto4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/public/images/foto5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/public/video/video.MP4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/CardItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/Cards.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/Cards.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/HeroSection.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/HeroSection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/img/foto3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/img/foto4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/img/foto5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/pages/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/pages/Contacto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/pages/Eventos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/pages/Quienes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/pages/Video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/video/video.MP4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/public/video/-1237129691328748265.MP4" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/adatriojazzband-website/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/adatriojazzband-website/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/components/Button.js" beforeDir="false" afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/Button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/components/HeroSection.css" beforeDir="false" afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/HeroSection.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/components/HeroSection.js" beforeDir="false" afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/HeroSection.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +34,12 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/adatriojazzband-website/src/components/video" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/adatriojazzband-website/src/components/video" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="UnknownFeatures">
@@ -63,5 +58,9 @@
       <screen x="-720" y="0" width="720" height="576" />
     </state>
     <state x="-672" y="28" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.25.1440.875/-720.0.720.576@-720.0.720.576" timestamp="1661677049562" />
+    <state x="-1391" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1661797626989">
+      <screen x="-1600" y="0" width="1600" height="900" />
+    </state>
+    <state x="-1391" y="196" width="670" height="676" key="search.everywhere.popup/0.25.1440.875/-1600.0.1600.900@-1600.0.1600.900" timestamp="1661797626989" />
   </component>
 </project>

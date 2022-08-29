@@ -6,6 +6,7 @@
 }
 
 .quienes,
+.video,
 .contacto,
 .eventos {
   display: flex;
@@ -16,19 +17,40 @@
 }
 
 .contacto {
-  background-image: url('../public/images/logoGrande4.png');
+  /*background-image: url('../public/images/logoGrande4.png');*/
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  background-color:#242424;
   color: #fff;
   font-size: 100px;
 }
 
 .eventos {
-  background-image: url('../public/images/logoGrande4.png');
+ /* background-image: url('../public/images/logoGrande4.png'); */
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
+  background-color:#242424;
+  color: #fff;
+  font-size: 100px;
+}
+
+.quienes {
+ /* background-image: url('../public/images/logoGrande4.png'); */
+  background-position: center;
+  background-size: fill;
+  background-repeat: no-repeat;
+  background-color:#242424;
+  color: #fff;
+  font-size: 100px;
+}
+
+.video {
+  background-position: center;
+  background-size: fill;
+  background-repeat: no-repeat;
+  background-color:#242424;
   color: #fff;
   font-size: 100px;
 }
