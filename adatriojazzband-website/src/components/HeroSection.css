@@ -25,19 +25,23 @@
 .hero-container > h1 {
 color:#FFFFFF;
 font-size:40px;
+
 }
 
 .hero-container > p {
 color:#FFFFFF;
 font-size: 25px;
+
 }
 
 .hero-btns {
 margin-top: 100px;
+font-family: Copperplate;
 }
 
 .hero-btns .btn {
 margin: 10px;
+font-family: Copperplate;
 }
 
 @media screen and (max-width: 960px) {
