@@ -34,3 +34,32 @@ export const Button = ({
             </Link>
         )
 };
+
+export const Button2 = ({
+    children,
+    type,
+    onClick,
+    buttonStyle2,
+    buttonSize2
+}) => {
+    const checkButtonStyle2 = STYLES.includes(buttonStyle2)
+        ? buttonStyle2
+        : STYLES[0];
+
+        const checkButtonSize2 = SIZES.includes(buttonSize2)
+        ? buttonSize2
+        : SIZES[0];
+
+        return (
+            <Link to='/contacto' className='btn-mobile2'>
+                <button
+                className={`btn ${checkButtonStyle2} ${checkButtonSize2}`}
+                onClick={onClick}
+                type={type}
+                >
+                    {children}
+                </button>
+
+            </Link>
+        )
+};
