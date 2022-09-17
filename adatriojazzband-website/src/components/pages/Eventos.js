@@ -8,7 +8,7 @@ export default function Eventos() {
 <React.Fragment>
 <section class="dl-blurbs">
 <div className="parrafo">
-    <dt>2022</dt>
+    <dt>Conciertos 2022</dt>
     <br></br>
     <dt>19 junio</dt>
 	<dd>Ayuntamiento de Fines (Fines, Almería) </dd>

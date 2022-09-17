@@ -27,6 +27,7 @@ html {
   box-sizing: inherit;
 }
 
+
 body {
     background-color: #FFFFFF;
     font-family: Copperplate;
@@ -44,11 +45,11 @@ body {
 /* LIST */
 .parrafo {
   counter-reset: count;
-	background: linear-gradient(90deg, rgba(0,0,0,0.04) 20%, rgba(255,255,255,0) 0%);;
+	background: linear-gradient(90deg, rgba(0,0,0,0.04) 20%, rgba(255,255,255,0) 0%);
 	padding-left: 4vw;
 	padding-right: 4vw;
-	padding-top: 10vw;
-	padding-bottom: 10vw;
+	padding-top: 5vw;
+	padding-bottom: 5vw;
 	margin: 0;
 	@include tablet-up {padding-left: 2vw;}
 	@include desktop {

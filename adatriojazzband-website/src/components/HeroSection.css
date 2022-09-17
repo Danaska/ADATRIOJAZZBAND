@@ -10,7 +10,7 @@
 .hero-container {
   background: url('../../public/images/logoGrande4.png') top center/cover no-repeat;
   height: 90vh;
-  background-size: 500px 500px;
+  background-size: 550px 550px;
   background-color: #242424;
   width: 100%;
   font-color: #fff;
@@ -25,12 +25,14 @@
 .hero-container > h1 {
 color:#FFFFFF;
 font-size:40px;
+height:50px;
 
 }
 
 .hero-container > p {
 color:#FFFFFF;
 font-size: 25px;
+height:0px;
 
 }
 
@@ -57,6 +59,7 @@ font-family: Copperplate;
 
   .hero-btns {
   margin-top: 50px;
+  padding-right:12vw;
   }
 
   .hero-container > p {

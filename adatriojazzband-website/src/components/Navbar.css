@@ -30,6 +30,8 @@
   font-family: Copperplate;
 }
 
+
+
 .nav-menu {
   display: grid;
   grid-template-columns: repeat(4, auto);
@@ -41,22 +43,19 @@
   margin-right: 2rem;
 }
 
-.nav-item {
-  height: 80px;
-}
-
 .nav-links {
   color: #fff;
   display: flex;
   align-items: center;
   text-decoration: none;
   padding: 0.5rem 1rem;
-  height: 100%;
+  height: 80px;
   font-family: Copperplate;
 }
 
 .nav-links:hover {
   border-bottom: 4px solid #fff;
+  height:65px;
   transition: all 0.2s ease-out;
 }
 
@@ -70,6 +69,7 @@
 
 .menu-icon {
   display: none;
+  height:30px;
 }
 
 @media screen and (max-width: 960px) {
@@ -79,7 +79,7 @@
 
   .nav-menu {
     display: flex;
-    flex-direction: column;
+    flex-direction:column;
     width: 100%;
     height: 90vh;
     position: absolute;
@@ -89,6 +89,10 @@
     transition: all 0.5s ease;
   }
 
+  .nav-item{
+    padding-right:12vw;
+    height:82px;}
+
   .nav-menu.active {
     background: #242222;
     left: 0;
@@ -96,7 +100,7 @@
     transition: all 0.5s ease;
     z-index: 1;
     position:absolute;
-    height:175px;
+    height:165px;
   }
 
   .nav-links {
@@ -104,12 +108,15 @@
     padding: 2rem;
     width: 100%;
     display: table;
+    height:15px;
   }
 
   .nav-links:hover {
     background-color: #fff;
     color: #242424;
     border-radius: 0;
+    height:5px;
+
   }
 
   .navbar-logo {

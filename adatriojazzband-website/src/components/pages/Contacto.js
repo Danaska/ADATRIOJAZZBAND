@@ -17,6 +17,8 @@ export default function Contacto() {
 	<hr></hr>
 	<dt>Redes sociales</dt>
 	<dd><a href="https://www.instagram.com/adajazzband/">Instagram</a></dd>
+	<br></br>
+	<br></br>
 
 </div>
 </section>
