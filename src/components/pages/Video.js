@@ -3,7 +3,7 @@ import '../../App.css';
 import video from '../video/video.MP4';
 import '../HeroSection.css';
 
-export default props => {
+const props = () => {
   return (
   <div className="video">
     <video width="500" height="420" controls>
@@ -12,3 +12,5 @@ export default props => {
   </div>
   );
 };
+
+export default props
