@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ADATRIOJAZZBAND/static/css/main.dbe078da.css",
+    "main.js": "/ADATRIOJAZZBAND/static/js/main.9c533608.js",
+    "static/media/video.MP4": "/ADATRIOJAZZBAND/static/media/video.67160de51755cd279db7.MP4",
+    "static/media/logoGrande4.png": "/ADATRIOJAZZBAND/static/media/logoGrande4.95565a087cb1bd32f02e.png",
+    "static/media/foto4.png": "/ADATRIOJAZZBAND/static/media/foto4.dd3f6790c18b04fafbbd.png",
+    "static/media/foto5.png": "/ADATRIOJAZZBAND/static/media/foto5.f9bc1aca1102baa578aa.png",
+    "static/media/foto3.jpeg": "/ADATRIOJAZZBAND/static/media/foto3.3d3f6f4debfefa2ab4f4.jpeg",
+    "index.html": "/ADATRIOJAZZBAND/index.html",
+    "main.dbe078da.css.map": "/ADATRIOJAZZBAND/static/css/main.dbe078da.css.map",
+    "main.9c533608.js.map": "/ADATRIOJAZZBAND/static/js/main.9c533608.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbe078da.css",
+    "static/js/main.9c533608.js"
+  ]
+}
