@@ -15,7 +15,7 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
             src={foto3}
-            text='El Refugio - Cala Higuera (SanJosé, Almería)'
+            text='El Refugio - Cala Higuera (San José, Almería)'
             label='Concierto'
             label2= '25/08/22'
             path='/eventos'

@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de1a6f9a-9a1e-4c35-8650-8c221c54db0a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/pages/Contacto.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/pages/Eventos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/pages/Quienes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/pages/QuienesItem.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/components/Cards.js" beforeDir="false" afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/Cards.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/components/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/Footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/components/HeroSection.css" beforeDir="false" afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/HeroSection.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/components/Navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/Navbar.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/components/pages/Contacto.js" beforeDir="false" afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/pages/Contacto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/components/pages/Eventos.js" beforeDir="false" afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/pages/Eventos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adatriojazzband-website/src/components/pages/Quienes.js" beforeDir="false" afterPath="$PROJECT_DIR$/adatriojazzband-website/src/components/pages/Quienes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,9 +65,10 @@
       <screen x="-1600" y="0" width="1600" height="900" />
     </state>
     <state x="-1450" y="0" width="1301" height="705" key="dock-window-1/0.25.1440.875/-1600.0.1600.900@-1600.0.1600.900" timestamp="1662973569935" />
-    <state x="-1391" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1661797626989">
-      <screen x="-1600" y="0" width="1600" height="900" />
+    <state x="188" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1663410571411">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="188" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1663410571411" />
     <state x="-1391" y="196" width="670" height="676" key="search.everywhere.popup/0.25.1440.875/-1600.0.1600.900@-1600.0.1600.900" timestamp="1661797626989" />
   </component>
 </project>

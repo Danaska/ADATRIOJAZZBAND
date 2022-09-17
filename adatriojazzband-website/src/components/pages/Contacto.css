@@ -1,0 +1,81 @@
+
+
+/*media queries*/
+@mixin tablet {
+  @media (min-width: #{768px}) and (max-width: #{1024px - 1px}) {
+    @content;
+  }
+}
+
+@mixin desktop {
+  @media (min-width: #{1024px}) {
+    @content;
+  }
+}
+
+@mixin tablet-up {
+  @media (min-width: #{768px}) {
+    @content;
+  }
+}
+
+html {
+  box-sizing: content-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+    background-color: #FFFFFF;
+    font-family: Copperplate;
+    font-size: 0.875em;
+    color: #444444;
+    line-height: 1.5;
+}
+.dl-blurbs {
+	display: grid;
+	@include tablet-up {
+		grid-template-columns: repeat(2, 1fr);
+		gap: 2vw;
+	}
+}
+/* LIST */
+.parrafoc {
+  counter-reset: count;
+	background: linear-gradient(90deg, rgba(0,0,0,0.04) 20%, rgba(255,255,255,0) 0%);;
+	padding-left: 4vw;
+	padding-right: 4vw;
+	padding-top: 10vw;
+	padding-bottom: 10vw;
+	margin: 0;
+	@include tablet-up {padding-left: 2vw;}
+	@include desktop {
+		padding-top: 3vw;
+		padding-bottom: 3vw;
+	}
+
+}
+
+
+
+dt {
+  counter-increment: count;
+	color: #C70039;
+    font-family: Copperplate;
+	font-size: 3vw;
+	text-transform: uppercase;
+}
+.date::before {
+  content: counter(count, decimal-leading-zero)".";
+    font-family: Copperplate;
+	color: #C70039;
+	margin-left: -1vw;
+	padding-right: 12px;
+}
+
+dd {
+	margin-left: 5vw;
+	margin-bottom: 2vh;
+}
+hr {width: 60%;margin-left: auto;margin-right: auto;}
